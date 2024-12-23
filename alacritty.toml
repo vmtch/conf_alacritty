@@ -1,11 +1,9 @@
+import = [
+    "~/.config/alacritty/themes/themes/night_owl.toml"
+]
 [font.normal]
-family = "uzura_font"
+family = "monospace"
 style = "Regular"
 [window]
-title="たーみなる☆"
-[colors.primary]
-foreground="#000000"
-background="#ffe4e1"
-[colors.cursor]
-text="#000000"
-cursor="#ff69b4"
+title="Hacking in The Terminal"
+opacity=0.95
