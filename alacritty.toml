@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/themes/themes/night_owl.toml"
+    "~/.config/alacritty/themes/themes/dracula.toml"
 ]
 [font.normal]
 family = "0xProto Nerd Font Mono"
