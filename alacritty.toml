@@ -1,8 +1,9 @@
+[general]
 import = [
     "~/.config/alacritty/themes/themes/night_owl.toml"
 ]
 [font.normal]
-family = "monospace"
+family = "0xProto Nerd Font Mono"
 style = "Regular"
 [window]
 title="Hacking in The Terminal"
